@@ -1,0 +1,82 @@
+<!doctype html>
+<html>
+	<head>
+    	
+		<title>White Tiger</title>
+
+			<meta charset="utf-8" />
+			<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+			<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+	</head>       
+
+	<body style="background-color:silver">
+			<h1>The White Tiger</h1>
+
+			<h2>Introduction</h2>
+
+			<hr>
+			<p style="font-size:16px;"><em>The white tiger or bleached tiger is a pigmentation variant of the Bengal tiger, which is reported in the wild from 													time to time in the Indian states of Assam,West Bengal and Bihar in the Sunderbans region and especially in the former 													State of Rewa.Such a tiger has the black stripes typical of the Bengal tiger, but carries a white or near-white coat.
+			</em></p>
+			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/MadridZoo-Panthera_tigris_tigris.jpg/330px-MadridZoo-Panthera_tigris_tigris.jpg" 				width="200">
+			
+			<form>
+			<p>Seen a White Tiger:Yes <input type="radio" name="tiger" value="Seen a white Tiger:Yes"></p>
+			
+			<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;No<input type="radio" name="tiger" value="No"></p>
+			</form>
+
+			<!--content-->
+			<p style="font-size:20px;">Content</p>
+			<ul>
+				<li><a href="#var">Variations</a></li>
+				<li><a href="#pop">Population</a></li>
+				<li><a href="#see">See also</a></li>
+			</ul>
+			<h3 id="var"><b> Variations</b></h3>
+
+
+			<hr>
+			<p style="font-size:14px;"><em>The white <b>Bengal tigers</b> are distinctive due to the color of their fur. The white fur caused by a lack of the 													pigment pheomelanin, which is found in Bengal tigers with orange color fur. When compared to Bengal tigers, the 													white Bengal tigers tend to grow faster and heavier than the orange Bengal tiger. They also tend to be somewhat 													bigger at birth, and as fully grown adults. White Bengal tigers are fully grown when they are 2–3 years of age. 													White male tigers reach weights of <sup>200 to 230</sup> kilograms and can grow up to <u>3 meters</u> in length. As 													with all tigers, the white Bengal tiger’s stripes are like fingerprints,with no two tigers having the same 														pattern.										
+												</em></p>
+
+			<p id="pop" style="font-size:16px;"><b>The Population of White Tiger in countries in order:</b></p>
+			<hr>
+			<ol type="I">
+				
+				<li>India</li>
+				<li>Africa</li>
+				<li>carrabian</li>
+				<li>Europe</li>
+				<li>America</li>
+
+			</ol>
+
+		
+			<p>Which country do you belong to:-
+				<select>
+						<option>India</option>
+						<option>Africa</option>
+						<option>Carrabia</option>
+						<option selected="selected">Europe</option>
+						<option>America</option>
+				</select>
+				</p>
+									
+			<p id="see" style="font-size:20px;"><b>See also</b></p>
+			<hr>
+			<ul>
+				<li><a href="https://en.wikipedia.org/wiki/Byakko">Byakko</a></li>
+				<li><a href="https://en.wikipedia.org/wiki/Black_tiger_(animal)">Black Tiger</a></li>
+				<li><a href="https://en.wikipedia.org/wiki/White_lion">White Lion</a></li>
+				<li><a href="https://en.wikipedia.org/wiki/Captive_white_tigers">Captive White Tigers</a></li>
+				<li><a href="https://en.wikipedia.org/wiki/Outbreeding_depression">Outbreeding Depression</a></li>
+			</ul>
+
+	</body>
+
+</html>
+ 
+
+
+
